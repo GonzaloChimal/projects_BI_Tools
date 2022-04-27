@@ -1,0 +1,2 @@
+# projects_PowerBI
+Projects in Power BI carried out through open data that I found on the Internet, among the projects that I have carried out are: * COVID: Information obtained from a GitHub of Johns Hopkins University. * Video game store: Information obtained while browsing the internet. * World Indicators: Information obtained by browsing the internet. * Human Resources: Information obtained by browsing the internet.
