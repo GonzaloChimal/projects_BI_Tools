@@ -4,4 +4,4 @@ Projects in Power BI carried out through open data that I found on the Internet 
 • Video game store: Information obtained while browsing the internet. <br>
 • World Indicators: Information obtained by browsing the internet. <br>
 • Human Resources: Information obtained by browsing the internet. <br>
-• Consorcio de la Fuente: Information obtained by different Excel files, ETL processing and creation of dashboards for the accounting, shipping and customs operation areas.
+• Consorcio de la Fuente: Information obtained by different Excel files, ETL processing and creation of dashboards for the accounting, shipping and customs operation areas (due to professional ethics I cannot upload the .pbix file).
