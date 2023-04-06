@@ -1,4 +1,4 @@
-# Projects in different BI tools::
+# Projects in different BI tools:
 
 #
 <p align="center">
