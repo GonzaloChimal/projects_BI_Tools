@@ -19,10 +19,9 @@
 #
 I developed the following projects in the aforementioned tools: <br>
 • COVID: Information obtained from a GitHub of Johns Hopkins University. <br>
-```plain
+
 - Video game store: Information obtained while browsing the internet: <br>
-  -`[Tableau](https://public.tableau.com/views/TiendaVideojuegos/TiendaVideojuegos?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)`.</a> <br>
-```  
+    - <a href="https://public.tableau.com/views/TiendaVideojuegos/TiendaVideojuegos?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link"> Tableau. </a> 
 • World Indicators: Information obtained by browsing the internet. <br>
 • Human Resources: Information obtained by browsing the internet. <br>
 • Consorcio de la Fuente: Information obtained by different Excel files, ETL processing and creation of dashboards for the accounting, shipping and customs operation areas (Due to professional ethics and confidentiality I cannot upload the .pbix file).<br>
@@ -50,10 +49,10 @@ I developed the following projects in the aforementioned tools: <br>
 #
 Desarrolle los siguientes proyectos en las herramientas antes mencionadas: <br>
 • COVID: Información obtenida de un GitHub de la Universidad Johns Hopkins. <br>
-```plain
+
 - Tienda de videojuegos: Información obtenida durante la navegación por Internet: <br>
   - <a href="https://public.tableau.com/views/TiendaVideojuegos/TiendaVideojuegos?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link"> Tableau. </a> <br>
-```
+
 • Indicadores Mundiales: Información obtenida navegando por internet. <br>
 • Recursos Humanos: Información que se obtiene navegando por Internet. <br>
 • Consorcio de la Fuente: Información obtenida por diferentes archivos Excel, procesamiento ETL y creación de tableros para las áreas de contabilidad, embarque y operación aduanera (por ética profesional y por confidencialidad no puedo subir el archivo .pbix).<br>
