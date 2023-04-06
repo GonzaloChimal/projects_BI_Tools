@@ -21,7 +21,7 @@ I developed the following projects in the aforementioned tools: <br>
 • COVID: Information obtained from a GitHub of Johns Hopkins University. <br>
 
 • Video game store: Information obtained while browsing the internet: <br>
-      - <a href="https://public.tableau.com/views/TiendaVideojuegos/TiendaVideojuegos?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link"> Tableau.</a> <br>
+   *   - <a href="https://public.tableau.com/views/TiendaVideojuegos/TiendaVideojuegos?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link"> Tableau.</a> <br>
 
 • World Indicators: Information obtained by browsing the internet. <br>
 • Human Resources: Information obtained by browsing the internet. <br>
