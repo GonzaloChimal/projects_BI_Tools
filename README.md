@@ -51,7 +51,7 @@ I developed the following projects in the aforementioned tools: <br>
 Desarrolle los siguientes proyectos en las herramientas antes mencionadas: <br>
 • COVID: Información obtenida de un GitHub de la Universidad Johns Hopkins. <br>
 ```plain
-• Tienda de videojuegos: Información obtenida durante la navegación por Internet: <br>
+- Tienda de videojuegos: Información obtenida durante la navegación por Internet: <br>
   - <a href="https://public.tableau.com/views/TiendaVideojuegos/TiendaVideojuegos?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link"> Tableau. </a> <br>
 ```
 • Indicadores Mundiales: Información obtenida navegando por internet. <br>
