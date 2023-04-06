@@ -1,7 +1,11 @@
-# Proyectos en Power BI
+# Proyectos en diferentes herramientas BI:
 
 #
 ![images](https://user-images.githubusercontent.com/27865066/175987761-703f25f5-6f71-4af4-8c01-98303ddd9718.jpg)
+![TABLEAU_SOFTWARE_LOGOjpg_Logo](https://user-images.githubusercontent.com/27865066/230251710-dfd6c4ff-b502-46ac-9e07-496635ada4a7.jpg)
+![182360f9cf419f66243e04cc119e1ddc](https://user-images.githubusercontent.com/27865066/230251804-5d63a02b-ac9e-4ce7-9eb8-26c70cb76884.jpg)
+![images](https://user-images.githubusercontent.com/27865066/230252028-59e1f27d-d114-463d-a925-c769b7fe5c02.jpg)
+
 
 #
 Proyectos en Power BI realizados a través de datos abiertos que encontré en Internet y el último trabajo, entre los proyectos que he realizado están: <br>
