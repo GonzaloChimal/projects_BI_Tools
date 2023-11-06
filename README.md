@@ -31,6 +31,12 @@ I developed the following projects in the aforementioned tools: <br>
    - <a href="https://github.com/GonzaloChimal/projects_BI_Tools/blob/main/Power%20BI/Recursos%20Humanos.pbix"> Power BI.</a><br>
 * Consorcio de la Fuente: Information obtained by different Excel files, ETL processing and creation of dashboards for the accounting, shipping and customs operation areas (Due to professional ethics and confidentiality I cannot upload the .pbix file).<br>
 * Cross GPS project (BAT client): Snowflake data source (for professional ethics and confidentiality I cannot upload the .pbix file).<br>
+* Horizon Auto Logistics:<br>
+   - Project for services and maintenance.<br>
+   - Project for audits.<br>
+   - Project for the logistics area.<br>
+   - Project following the standards / KPIs requested by the Mercedes-Benz client and supervised by the COO (Chief Operating Officer) of HAL.<br>
+   (for professional ethics and confidentiality I cannot upload the .pbix file).<br>
 
 # Proyectos en diferentes herramientas BI:
 
@@ -66,4 +72,10 @@ Desarrolle los siguientes proyectos en las herramientas antes mencionadas: <br>
 * Recursos Humanos: Información que se obtiene navegando por Internet. <br>
    - <a href="https://github.com/GonzaloChimal/projects_BI_Tools/blob/main/Power%20BI/Recursos%20Humanos.pbix"> Power BI.</a><br>
 * Consorcio de la Fuente: Información obtenida por diferentes archivos Excel, procesamiento ETL y creación de tableros para las áreas de contabilidad, embarque y operación aduanera (por ética profesional y por confidencialidad no puedo subir el archivo .pbix).<br>
-* Proyecto Cross GPS (cliente BAT): fuente de datos Snowflake (por ética profesional y confidencialidad no puedo subir el archivo .pbix).
+* Proyecto Cross GPS (cliente BAT): fuente de datos Snowflake (por ética profesional y confidencialidad no puedo subir el archivo .pbix).<br>
+* Horizon Auto Logistics:<br>
+  - Proyecto para servicios y mantenimiento.<br>
+  - Proyecto para auditorías.<br>
+  - Proyecto para el área de logistica.<br>
+  - Proyecto siguiendo los estándares / KPIs solicitados por el cliente Mercedes-Benz y supervisado por el COO (Chief Operating Officer) de HAL.<br>
+  (por ética profesional y por confidencialidad no puedo subir el archivo .pbix).<br>
