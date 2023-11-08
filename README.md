@@ -27,6 +27,7 @@ I developed the following projects in the aforementioned tools: <br>
    - <a href="https://github.com/GonzaloChimal/projects_BI_Tools/blob/main/Oracle%20Analytics/Tienda%20Videojuegos.dva"> Oracle Analytics.</a><br>
 * Indicadores Mundiales: Información obtenida navegando por internet. <br>
    - <a href="https://github.com/GonzaloChimal/projects_BI_Tools/blob/main/Power%20BI/Indicadores%20Mundiales.pbix"> Power BI.</a><br>
+   - <a href="https://public.tableau.com/app/profile/gonzalo.chimal/viz/WorldIndicators_16993122095560/WorldIndicators"> Tableau.</a> <br>
 * Recursos Humanos: Información que se obtiene navegando por Internet. <br>
    - <a href="https://github.com/GonzaloChimal/projects_BI_Tools/blob/main/Power%20BI/Recursos%20Humanos.pbix"> Power BI.</a><br>
 * Consorcio de la Fuente: Information obtained by different Excel files, ETL processing and creation of dashboards for the accounting, shipping and customs operation areas (Due to professional ethics and confidentiality I cannot upload the .pbix file).<br>
@@ -69,6 +70,7 @@ Desarrolle los siguientes proyectos en las herramientas antes mencionadas: <br>
    - <a href="https://github.com/GonzaloChimal/projects_BI_Tools/blob/main/Oracle%20Analytics/Tienda%20Videojuegos.dva"> Oracle Analytics.</a><br>
 * Indicadores Mundiales: Información obtenida navegando por internet. <br>
    - <a href="https://github.com/GonzaloChimal/projects_BI_Tools/blob/main/Power%20BI/Indicadores%20Mundiales.pbix"> Power BI.</a><br>
+   - <a href="https://public.tableau.com/app/profile/gonzalo.chimal/viz/WorldIndicators_16993122095560/WorldIndicators"> Tableau.</a> <br>
 * Recursos Humanos: Información que se obtiene navegando por Internet. <br>
    - <a href="https://github.com/GonzaloChimal/projects_BI_Tools/blob/main/Power%20BI/Recursos%20Humanos.pbix"> Power BI.</a><br>
 * Consorcio de la Fuente: Información obtenida por diferentes archivos Excel, procesamiento ETL y creación de tableros para las áreas de contabilidad, embarque y operación aduanera (por ética profesional y por confidencialidad no puedo subir el archivo .pbix).<br>
